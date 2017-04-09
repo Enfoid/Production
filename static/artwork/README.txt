@@ -1,1 +1,2 @@
-default public artwork for sharing and websites
+default public artwork for sharing and websites.
+
